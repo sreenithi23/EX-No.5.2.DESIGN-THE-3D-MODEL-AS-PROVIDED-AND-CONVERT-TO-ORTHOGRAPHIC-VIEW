@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![sree nithi 5 2_page-0001](https://github.com/user-attachments/assets/16e2d2cf-9f17-4a52-9071-7c62d1a1f483)
+
 
 
 ## RESULT:
